@@ -1,1 +1,5 @@
 occupation_title,occupation_id,knowledge_facet,skills_facet,personality_facet,task_pattern_facet,role_family,notes
+Computer Programmer,CP01,Engineering and Technology,Programming and Problem Solving,Analytical Thinking and Attention to Detail,Software Development & Quality,Software Engineering,"Hands on building and maintaining code artifacts"
+Information Technology Project Manager,ITPM01,Business and Project Management,Project Planning and Coordination,Leadership and Stress Tolerance,Project Governance & Coordination,Program and Project Management,"Owns delivery, alignment, and execution across people and process"
+Data Analyst,DA01,Math and Statistics,Data Analysis and Reporting,Detail Orientation and Curiosity,Data Lifecycle & Insight Delivery,Data and Analytics,"Transforms data into decisions through preparation, analysis, and communication"
+

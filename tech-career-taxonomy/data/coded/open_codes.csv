@@ -1,1 +1,10 @@
 occupation_title,occupation_id,source_field,text_excerpt,open_code,coder,notes
+Computer Programmer,CP01,Design and code program modules for new features,Design and code program modules for new features,Builds modular code,J. Lee,Focus on creating maintainable feature components
+Computer Programmer,CP01,Review, refactor, and troubleshoot code to resolve defects,Review, refactor, and troubleshoot code to resolve defects,Debugs and improves existing code,J. Lee,Emphasizes quality assurance work
+Computer Programmer,CP01,Create unit tests and document program changes,Create unit tests and document program changes,Documents and tests code,J. Lee,Highlights test coverage and traceability
+Information Technology Project Manager,ITPM01,Define project scope, milestones, and budgets with sponsors,Define project scope, milestones, and budgets with sponsors,Plans project scope and resources,J. Lee,Scoping with fiscal awareness
+Information Technology Project Manager,ITPM01,Coordinate technical teams and vendors to execute project plans,Coordinate technical teams and vendors to execute project plans,Orchestrates cross-team execution,J. Lee,Manages collaboration across boundaries
+Information Technology Project Manager,ITPM01,Monitor risks, report status, and adjust plans to keep projects on track,Monitor risks, report status, and adjust plans to keep projects on track,Manages risk and status visibility,J. Lee,Iterative control over delivery
+Data Analyst,DA01,Acquire and clean datasets from multiple sources,Acquire and clean datasets from multiple sources,Prepares multi-source data,J. Lee,Data wrangling emphasis
+Data Analyst,DA01,Build queries, models, or dashboards to summarize trends,Build queries, models, or dashboards to summarize trends,Constructs analytical outputs,J. Lee,Combines SQL and reporting tools
+Data Analyst,DA01,Visualize findings and explain implications to stakeholders,Visualize findings and explain implications to stakeholders,Communicates insights visually,J. Lee,Links analysis to stakeholder decisions
